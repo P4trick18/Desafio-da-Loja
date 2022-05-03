@@ -1,0 +1,43 @@
+body {
+    background: #000;
+    color: #FFF;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+
+#botao{
+    width: 45px;
+    border-radius: 12px;
+    border: 1px solid #191818;
+    background: #191818;
+    color: #FFF;
+    outline: none;
+}
+
+#botao produtos {
+    width: 45px;
+    border-radius: 12px;
+    border: 1px solid #191818;
+    background: #191818;
+    color: #FFF;
+    outline: none;
+}
+
+.botao produtos {
+    width: 45px;
+    border-radius: 12px;
+    border: 1px solid #191818;
+    background: #191818;
+    color: #FFF;
+    outline: none;
+}
+
+.topo button {
+    width: 45px;
+    border-radius: 12px;
+    border: 1px solid #191818;
+    background: #191818;
+    color: #FFF;
+    outline: none;
+}
